@@ -9,6 +9,11 @@ All dependencies are provided in the requirement.txt
 
 ## Steps to run the project:
 
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
+
 Step 1: open this project in vs Code or your preffered IDE
 Step 2: pip install all the requirements provided in requirements.txt file.
 Step 3: one thing you have to take care of whether your app is connected to the database or not
