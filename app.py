@@ -78,7 +78,6 @@ def login():
 
 @app.route('/dashboard', methods=['GET', 'POST'])
 def dashboard():
-    print("HELLO I AM A FLASK APP")
     movieName = ["Avengers","Avatar"]
     myMovieName = random.choice(movieName)
     try:
@@ -132,6 +131,3 @@ def register():
         return redirect(url_for('login'))
     
     return render_template('register.html',form = form)
-
-if __name__ == '__main__':
-    app.run()
