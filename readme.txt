@@ -1,6 +1,6 @@
 Steps to run the project:
 
-Hosted link : https://movie2watch.herokuapp.com/
+Hosted link : https://search4movie.herokuapp.com/
 
 Github link : https://github.com/AMAN1620/Movie-library
 
