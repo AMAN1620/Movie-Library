@@ -1,8 +1,14 @@
-Steps to run the project:
 
-Hosted link : https://search4movie.herokuapp.com/
+# Movie Library
+## Hosted link : https://search4movie.herokuapp.com/
 
-Github link : https://github.com/AMAN1620/Movie-library
+### This project helps to search for movies details...
+
+## Dependencies 
+
+### All dependencies are provided in the requirement.txt
+
+## Steps to run the project:
 
 step 1: Open the project in Vs Code
 
